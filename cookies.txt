@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.format.com	TRUE	/	FALSE	1999999999	__cfduid	dc63b06b74c470543d56d5c69ba4be19b1560895146
+.bucket1.format-assets.com	TRUE	/	FALSE	1999999999	__cfduid	dbf5823b637d5b802e0663d9ab7b1c1041560895179
+
