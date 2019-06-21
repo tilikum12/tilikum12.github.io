@@ -80,6 +80,8 @@ hr {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
+color: rebeccapurple;
+
 }
 
 p {
@@ -395,7 +397,7 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.9rem;
   font-weight: 300;
 }
 
@@ -418,9 +420,9 @@ h6, .h6 {
 }
 
 .display-4 {
-  font-size: 3.5rem;
-  font-weight: 300;
-  line-height: 1.2;
+    font-size: 2.4rem;
+    font-weight: 300;
+    line-height: 0.1;
 }
 
 hr {
@@ -6590,8 +6592,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-    
-	background-color: rgba(59,35,35,0.40);
+    background-color: rgba(176,121,187,0.40);
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
