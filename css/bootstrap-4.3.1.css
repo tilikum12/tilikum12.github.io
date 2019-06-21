@@ -6590,7 +6590,8 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-    background-color: #868585 !important;
+    
+	background-color: rgba(59,35,35,0.40);
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -8004,7 +8005,7 @@ button.bg-dark:focus {
 
 .mt-3,
 .my-3 {
-    margin-top: 5rem !important;
+    margin-top: 6.5rem !important;
 }
 
 .mr-3,
